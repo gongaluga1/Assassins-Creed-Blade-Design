@@ -1,4 +1,5 @@
 # Assassins-Creed-Blade-Design
+![image](https://cdn.discordapp.com/attachments/872655875951689768/1543817077352304660/IMG_20260830_225607.jpg?ex=6a963f31&is=6a94edb1&hm=52a346b4bf5b1d436e4b72cb28267cc4b8999603dd86edbe2e78ea2725229d07&)
 Hidden blade from assassin's creed made readily (mostly) 3D printable. Ever want a cool cosplay item to show off to your friends? Make way for this sleek blade that shoots out from under your sleeve. Relatively simple assembly and fun to use.
 
 # Link to ONshape document: 
